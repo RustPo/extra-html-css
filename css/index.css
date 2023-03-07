@@ -1,0 +1,22 @@
+a[href^="#"] {
+    text-decoration: none;
+    color: rgb(124, 156, 242);
+}
+
+a[href^="h"] {
+    text-decoration: none;
+    color: rgb(124, 156, 242);
+}
+
+body {
+    font-size: 21px;
+    margin: auto;
+    width: 800px;
+    background-color: rgba(7, 1, 50, 0.807);
+    color: whitesmoke;
+}
+
+#img {
+    text-align: center;
+    margin-top: 25px;
+}
